@@ -1,7 +1,7 @@
 // Code your solutions in this file
-const names = ["Ada", "Brendan", "Ali"];
+const names = ["Lisa", "Kaitlin", "Jan"];
 
-  writeCards(["Ada", "Brendan", "Ali"], "surprise");
+  writeCards(["Lisa", "Kaitlin", "Jan"], "surprise");
 
 function writeCards(names)
 {
