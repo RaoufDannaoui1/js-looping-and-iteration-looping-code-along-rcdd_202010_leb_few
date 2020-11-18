@@ -5,7 +5,7 @@ for(let i = 0; i<names.length; i++)
 
 function writeCards(names)
 {
-cnsole.log(`Thank you, ${names[i]}, for the wonderful birthday gift!`);
+console.log(`Thank you, ${names[i]}, for the wonderful birthday gift!`);
 
 
   return names;
